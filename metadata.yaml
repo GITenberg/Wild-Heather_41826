@@ -1,0 +1,38 @@
+_repo: Wild-Heather_41826
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41826-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Thomas, Elizabeth
+    - Smith, Elizabeth Thomasina Meade
+    - Meade, Elizabeth Thomasina
+    - Meade, Mrs. L. T.
+    - Mead, L. T.
+    - Meade, Lillie
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_issued: '2013-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Aunts -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Stepmothers -- Fiction'
+- !lcsh 'England -- Social life and customs -- Fiction'
+title: Wild Heather
+url: http://www.gutenberg.org/ebooks/41826
